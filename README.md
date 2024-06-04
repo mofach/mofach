@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mo Fach</h1>
 <h3 align="center">A student studying Computer Engineering at Bandung University of Technology</h3>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mofach&style=for-the-badge&base=1530" alt="Mofach profile view" />
+  <img src="https://komarev.com/ghpvc/?username=mofach&style=for-the-badge" alt="Mofach profile view" />
 </div>
 
 
