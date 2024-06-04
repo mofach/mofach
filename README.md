@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mo Fach</h1>
 <h3 align="center">A student studying Computer Engineering at Bandung University of Technology</h3>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mofach&style=for-the-badge&base=1530" alt="Gilang's Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mofach&style=for-the-badge&base=1530" alt="Mofach profile view" />
 </div>
 
 
@@ -58,6 +58,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilangnr&show_icons=true&locale=en&layout=compact" alt="gilangnr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mofach&show_icons=true&locale=en&layout=compact" alt="mofach" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gilangnr&" alt="gilangnr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mofach&" alt="mofach" /></p>
