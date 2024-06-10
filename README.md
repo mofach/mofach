@@ -8,10 +8,7 @@
 <h3 align="center">Technologies I Use:</h3>
 
 <h4>Web Development:</h4>
-<p align="left"> 
-  <a href="https://devicon.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
-  </a> 
+<p align="left">  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -39,6 +36,13 @@
   </a> 
 </p>
 
+<h4>IoT Development:</h4>
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
+  </a>
+</p>
+
 <h4>Tools:</h4>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
@@ -46,6 +50,9 @@
   </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> 
+  </a>
+  <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="intellij" width="40" height="40"/> 
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
