@@ -9,7 +9,7 @@
 
 <h4>Web Development:</h4>
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3.org/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original-wordmark.svg" alt="cpp" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
