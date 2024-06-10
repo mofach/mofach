@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mo Fach</h1>
-<h3 align="center">A student studying Computer Engineering at Bandung University of Technology</h3>
+<h1 align="center">Hi 👋, I'm <p href=https://github.com/mofach>Mo Fach</p></h1>
+<h3 align="center">A student studying Informatics Engineering</h3>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mofach&style=for-the-badge" alt="Mofach profile view" />
 </div>
