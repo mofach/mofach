@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <p href=https://github.com/mofach>Mo Fach</p></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/mofach" target="_blank">Mo Fach</a></h1>
 <h3 align="center">A student studying Informatics Engineering</h3>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mofach&style=for-the-badge" alt="Mofach profile view" />
